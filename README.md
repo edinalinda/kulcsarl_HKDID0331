@@ -21,9 +21,7 @@ python hipobarias_vizsgalat_terminal.py
 
 # Főbb jellemzők
 - Interaktív adatbekérés.
-- A `calculations.py` függvényeit használja.
 - Eredmények egyértelműen megjelennek a terminálban.
 
 # Követelmények
 - Python 3.x
-- `calculations.py` ugyanabban a könyvtárban
